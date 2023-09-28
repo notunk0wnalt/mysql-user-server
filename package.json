@@ -1,0 +1,26 @@
+{
+  "name": "mysql-user-server",
+  "version": "1.0.0",
+  "description": "A Express.js server made to handle user data from MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node /tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/notunk0wnalt/mysql-user-server"
+  },
+  "keywords": [
+    "mysql",
+    "express",
+    "express",
+    "js",
+    "server",
+    "sql"
+  ],
+  "author": "notunk0wn",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^10.1.0"
+  }
+}
